@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-SBD17-06-CTDBPC000-recovered_inst-ctdbp_cdef_instrument_recovered
 data_stream: CE06ISSM-SBD17-06-CTDBPC000-recovered_inst-ctdbp_cdef_instrument_recovered
 end_date: '2021-02-16T00:29:11.000Z'
-last_updated: '2021-09-18T04:04:19.966327Z'
+last_updated: '2021-09-18T04:08:49.559586'
 start_date: '2014-10-07T19:45:03.000Z'
-status: pending
+status: success
